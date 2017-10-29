@@ -3,6 +3,10 @@ JSON.awk
 
 A practical JSON parser written in awk.
 
+@camwebb fork: **slight changes to allow `JSON.awk` to be used as a
+library of function in another script.**
+
+
 Quick Start
 -----------
 
